@@ -1,7 +1,7 @@
 # 🔢 Calculadora IMC 
 
-## 📑 Atividade de fixação de JavaScript:
-### Calculadora de IMC que retorna o resultado da operação.
+## Atividade de fixação de JavaScript:
+### 📑 Calculadora de IMC que retorna o resultado da operação.
 ### ➕ Incrementei no retorno a classificação do peso.
 
 
