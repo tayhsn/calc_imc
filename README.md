@@ -1,7 +1,6 @@
 ## Calculadora IMC 
 
-📑 Desenvolver Calculadora IMC.
-➕ Incremento: retorno com Indice & Classificação.
+➕ Retorno o indice e a classificação.
 
 
 <h6 align="center">Programação WEB 2021.1 <br>
